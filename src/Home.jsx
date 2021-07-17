@@ -1,5 +1,5 @@
 export const Home = () => {
-  rerurn(
+  return (
     <div>
       <h1>Homeページです</h1>
     </div>
